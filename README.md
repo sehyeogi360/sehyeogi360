@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 <div align="center">
-  내용
+  sehyeogi360's profile 
 </div>
  💪Skills
   
