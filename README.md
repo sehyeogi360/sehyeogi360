@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
  💪Skills
   
-  <div class="text-center">
+  <div class="">
  JAVA
  <img src="https://img.shields.io/badge/JAVA-4479A1?style=flat-square&logo=JAVA&logoColor=white"/>
   
