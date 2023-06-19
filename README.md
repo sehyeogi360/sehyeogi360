@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
  💪Skills
   
-  <div class="text-center">
+  <div class="text-center d-flex justify-content-center">
  JAVA
  <img src="https://img.shields.io/badge/JAVA-4479A1?style=flat-square&logo=JAVA&logoColor=white"/>
   
@@ -56,7 +56,8 @@ Bootstrap
 
 Git Hub
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  
+ 
+
 AWS
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
@@ -64,3 +65,20 @@ Apache Tomcat
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 
 </div>
+
+
+Tools
+<div class="">
+
+
+ Tools
+
+ Sourcetree
+<img src="https://img.shields.io/badge/Source Tree-0052CC?style=flat-square&logo=Source treet&logoColor=white"/>
+
+Git
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+ 
+</div>
+
+
