@@ -66,15 +66,13 @@ Apache Tomcat
 
 </div>
 
-
-Tools
 <div class="">
 
 
  Tools
 
  Sourcetree
-<img src="https://img.shields.io/badge/Source Tree-0052CC?style=flat-square&logo=Source treet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetreet&logoColor=white"/>
 
 Git
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
