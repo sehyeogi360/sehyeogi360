@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
  💪Skills
   
-  <div class="text-center d-flex justify-content-center">
+  <div align="center">
  JAVA
  <img src="https://img.shields.io/badge/JAVA-4479A1?style=flat-square&logo=JAVA&logoColor=white"/>
   
@@ -63,10 +63,6 @@ AWS
 
 Apache Tomcat
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
-
-</div>
-
-<div class="">
 
 
  Tools
