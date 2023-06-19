@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=sehyeogi360&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 <br>
-<div align="center">
+
  💪Skills <br><br>
   
   
