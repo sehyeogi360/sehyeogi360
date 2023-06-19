@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=sehyeogi360&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-<br><br><br>
+<br><br>
 <div align="center">
- 💪Skills <br><br><br>
-  
+ 💪Skills <br><br>
   
 
 <img src="https://img.shields.io/badge/JAVA-4479A1?style=flat-square&logo=JAVA&logoColor=white"/>
@@ -38,8 +37,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
-<br><br><br>
- Tools<br><br><br>
+<br><br>
+ Tools<br><br>
 
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetreet&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
