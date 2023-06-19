@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=sehyeogi360&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <div align="center">
- 💪Skills
+ 💪Skills <br>
   
   
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 
 
- Tools
+ Tools<br>
 
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetreet&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
