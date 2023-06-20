@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=sehyeogi360&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-</div>
+
 <br><br>
 <div align="center">
  💪Skills <br><br>
   
-Platforms&Languages
+Platforms&Languages<br><br>
 <img src="https://img.shields.io/badge/JAVA-4479A1?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
