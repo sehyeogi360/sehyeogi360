@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br><br>
 <div align="center">
- 💪<b>Skills</b> <br><br>
+ 💪<b>Skills</b><br><br>
   
 <b>Platforms&Languages</b><br><br>
 <img src="https://img.shields.io/badge/JAVA-4479A1?style=flat-square&logo=JAVA&logoColor=white"/>
